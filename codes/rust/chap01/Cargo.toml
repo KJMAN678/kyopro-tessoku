@@ -14,3 +14,15 @@ path = "src/answer_a01.rs"
 [[bin]]
 name = "answer_a02"
 path = "src/answer_a02.rs"
+
+[[bin]]
+name = "answer_a03"
+path = "src/answer_a03.rs"
+
+[[bin]]
+name = "answer_a04"
+path = "src/answer_a04.rs"
+
+[[bin]]
+name = "answer_a05"
+path = "src/answer_a05.rs"
