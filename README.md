@@ -26,7 +26,7 @@
 * [Rust のプログラム (chap01迄 完成)](https://github.com/E869120/kyopro-tessoku/tree/main/codes/rust)
 
 ### 演習問題の解答（準備中）
-**販促などの影響でかなり遅れています。申し訳ございません。**
+**1～9 章の Python の解答例は 9/30 まで、力試し問題の Python の解答例は 10/2 までに完成する見通しです。**
 
 * [1章：Python の解答例を除き完成](https://github.com/E869120/kyopro-tessoku/tree/main/editorial/chap01)
 * [2章：Python の解答例を除き完成](https://github.com/E869120/kyopro-tessoku/tree/main/editorial/chap02)
@@ -36,7 +36,7 @@
 * [6章：Python の解答例を除き完成](https://github.com/E869120/kyopro-tessoku/tree/main/editorial/chap06)
 * [8章：Python の解答例を除き完成](https://github.com/E869120/kyopro-tessoku/tree/main/editorial/chap08)
 * [9章：Python の解答例を除き完成](https://github.com/E869120/kyopro-tessoku/tree/main/editorial/chap09)
-* [力試し問題：C++ のコードのみ（9/28 完成予定）](https://github.com/E869120/kyopro-tessoku/tree/main/editorial/final)
+* [力試し問題：Python の解答例を除き完成](https://github.com/E869120/kyopro-tessoku/tree/main/editorial/final)
 
 <br />
 
